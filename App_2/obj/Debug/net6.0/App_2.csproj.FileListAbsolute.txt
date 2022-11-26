@@ -1,0 +1,15 @@
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/bin/Debug/net6.0/App_2
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/bin/Debug/net6.0/App_2.deps.json
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/bin/Debug/net6.0/App_2.runtimeconfig.json
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/bin/Debug/net6.0/App_2.dll
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/bin/Debug/net6.0/App_2.pdb
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.csproj.AssemblyReference.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.AssemblyInfoInputs.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.AssemblyInfo.cs
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.csproj.CoreCompileInputs.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.dll
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/refint/App_2.dll
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.pdb
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/App_2.genruntimeconfig.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_2/obj/Debug/net6.0/ref/App_2.dll
