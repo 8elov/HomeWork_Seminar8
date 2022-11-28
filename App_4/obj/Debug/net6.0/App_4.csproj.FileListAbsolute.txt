@@ -1,0 +1,15 @@
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/bin/Debug/net6.0/App_4
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/bin/Debug/net6.0/App_4.deps.json
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/bin/Debug/net6.0/App_4.runtimeconfig.json
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/bin/Debug/net6.0/App_4.dll
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/bin/Debug/net6.0/App_4.pdb
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.csproj.AssemblyReference.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.AssemblyInfoInputs.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.AssemblyInfo.cs
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.csproj.CoreCompileInputs.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.dll
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/refint/App_4.dll
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.pdb
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/App_4.genruntimeconfig.cache
+/Users/nikitabelov/Desktop/HomeWork/Seminar_8/App_4/obj/Debug/net6.0/ref/App_4.dll
